@@ -1,0 +1,98 @@
+{
+    "itemsData": [
+        {
+            "id": "firstItem",
+            "type": "TEXT",
+            "itemData": {
+                "text": "はじめまして"
+            }
+        },
+        {
+            "id": "1716966667333",
+            "type": "HEADER",
+            "itemData": {
+                "headerText": "第１目"
+            }
+        },
+        {
+            "id": "1716966681255",
+            "type": "LIST",
+            "itemData": {
+                "lists": [
+                    "私たちの目的は？",
+                    "なんでま知らない\nどんなことがらるか"
+                ]
+            }
+        },
+        {
+            "id": "1716966744406",
+            "type": "TABLE",
+            "itemData": {
+                "lists": {
+                    "0": {
+                        "0": "ｍ津",
+                        "1": "１月",
+                        "2": "２．月",
+                        "3": "３月"
+                    },
+                    "1": {
+                        "0": "score",
+                        "1": "dfdf",
+                        "2": "sdfsf",
+                        "3": "sdfsdf"
+                    },
+                    "2": {
+                        "0": "全く",
+                        "1": "aaa",
+                        "3": "sdfsdf"
+                    },
+                    "3": {
+                        "0": "シガライター",
+                        "1": "sfs",
+                        "2": "sdf",
+                        "3": "sfs"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1716966801061",
+            "type": "IMAGE",
+            "itemData": {
+                "imageSrc": "blob:http://localhost:3001/8da590d4-f4cc-451a-aaa1-5705b919c111",
+                "imageName": "Wallet-pana(1).png"
+            }
+        },
+        {
+            "id": "1716966805869",
+            "type": "LINK",
+            "itemData": {
+                "linkText": "https://crowdworks.jp"
+            }
+        },
+        {
+            "id": "1716966819565",
+            "type": "ATTACH",
+            "itemData": {
+                "imageSrc": "blob:http://localhost:3001/014ca97e-5c00-4613-8a1b-9df226134daa",
+                "imageName": "forgot_password.html"
+            }
+        },
+        {
+            "id": "1716966853597",
+            "type": "IMAGE",
+            "itemData": {
+                "imageSrc": "blob:http://localhost:3001/de9ed029-01c2-4d0e-ba91-c9e60cd16604",
+                "imageName": "Email campaign-amico(1).png"
+            }
+        },
+        {
+            "id": "1716966833141",
+            "type": "HEADER",
+            "itemData": {
+                "headerText": "第２目"
+            }
+        }
+    ],
+    "title": "私のブログ"
+}

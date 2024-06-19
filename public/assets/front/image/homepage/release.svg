@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="c1" data-name="c1" cx="55" cy="55" r="55" transform="translate(875 1351)" fill="#fbe6a2"/>
+    </clipPath>
+  </defs>
+  <g id="ms1" data-name="ms1" transform="translate(-875 -1351)" clip-path="url(#clip-path)">
+    <g id="g1" data-name="g1">
+      <g id="g2" data-name="g2" transform="translate(897.896 1397.235)">
+        <rect id="s1" data-name="s1" width="65.178" height="76.765" rx="2" transform="translate(0.104 0)" fill="#fff"/>
+        <path id="p1" data-name="p1" d="M0,0H44.32V10.334H0Z" transform="translate(10.429 8.216)" fill="#ffc02e"/>
+        <line id="l1" data-name="l1" x1="43.746" transform="translate(10.604 29.24)" fill="none" stroke="#acb3b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="l2" data-name="l2" x1="43.746" transform="translate(10.604 38.24)" fill="none" stroke="#acb3b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="l3" data-name="l3" x1="43.746" transform="translate(10.604 47.24)" fill="none" stroke="#acb3b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="g3" data-name="g3" transform="translate(909 1379.2) rotate(-43)">
+        <g id="g4" data-name="g4" transform="translate(0 0)">
+          <line id="l4" data-name="l4" x1="0.696" y2="13.939" transform="translate(2.951)" fill="#fff"/>
+          <path id="p2" data-name="p2" d="M7.28.365,2.951,13.9,0,0Z" transform="translate(0 0.042)" fill="#ffc02e"/>
+        </g>
+        <g id="g5" data-name="g5" transform="translate(12.026 5.202)">
+          <line id="l5" data-name="l5" x1="9.477" y2="10.245" transform="translate(0 2.309)" fill="#fff"/>
+          <path id="p3" data-name="p3" d="M12.008,4.944,0,12.554,6.644,0Z" transform="translate(0 0)" fill="#ffc02e"/>
+        </g>
+        <g id="g6" data-name="g6" transform="translate(16.551 21.131)">
+          <line id="l6" data-name="l6" x1="13.843" y2="1.777" transform="translate(0 3.593)" fill="#fff"/>
+          <path id="p4" data-name="p4" d="M14.1,7.236,0,5.371,13.138,0Z" fill="#ffc02e"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

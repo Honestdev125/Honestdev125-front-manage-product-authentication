@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65.656" height="52.963" viewBox="0 0 65.656 52.963">
+  <g id="g1" data-name="g1" transform="translate(-319.611 -1712)">
+    <g id="g2" data-name="g2" transform="translate(319.611 1712)">
+      <rect id="s1" data-name="s1" width="44.97" height="52.963" rx="2" transform="translate(0 0)" fill="#fff"/>
+      <path id="p1" data-name="p1" d="M0,0H30.579V7.13H0Z" transform="translate(7.195 5.669)" fill="#ffc02e"/>
+      <circle id="c1" data-name="c1" cx="2.451" cy="2.451" r="2.451" transform="translate(7.195 17.665)" fill="#ffc02e"/>
+      <line id="l1" data-name="l1" x1="19.999" transform="translate(17.5 19.794)" fill="none" stroke="#acb3b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="l2" data-name="l2" x1="30.579" transform="translate(7.195 25.871)" fill="none" stroke="#acb3b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="l3" data-name="l3" x1="30.579" transform="translate(7.195 30.871)" fill="none" stroke="#acb3b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="l4" data-name="l4" x1="30.579" transform="translate(7.195 35.871)" fill="none" stroke="#acb3b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="l5" data-name="l5" x1="20.305" transform="translate(7.195 40.871)" fill="none" stroke="#acb3b9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="g3" data-name="g3" transform="translate(377.715 1736.569) rotate(45)">
+      <path id="p2" data-name="p2" d="M10.68,2.377V0H0V2.377L3.037,7.291H7.643Z" transform="translate(0 19.954)" fill="#fff3d6"/>
+      <path id="p3" data-name="p3" d="M4.607,0H0L2.3,3.727Z" transform="translate(3.037 27.246)" fill="#66727d"/>
+      <path id="p4" data-name="p4" d="M1.907,22.331,0,21.287V0H1.907Z" transform="translate(8.774)" fill="#3c9436"/>
+      <path id="p5" data-name="p5" d="M1.907,21.287,0,22.331V0H1.907Z" transform="translate(0)" fill="#3c9436"/>
+      <path id="p6" data-name="p6" d="M3.433,22.331,0,21.287V0H3.433Z" transform="translate(1.908)" fill="#399b32"/>
+      <path id="p7" data-name="p7" d="M3.433,21.287,0,22.331V0H3.433Z" transform="translate(5.341 0)" fill="#399b32"/>
+    </g>
+  </g>
+</svg>

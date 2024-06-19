@@ -1,0 +1,128 @@
+.dropzone {
+    display: 'flex';
+    align-items: 'center';
+    justify-content: 'center';
+    padding: '20px';
+    border-radius: 2px;
+    border: 2px solid #eeeeee;
+    background-color: '#fafafa';
+    color: '#bdbdbd';
+    outline: 'none';
+    transition: 'border .24s ease-in-out';
+}
+
+.crop-modal {
+    padding: 10px 20px 20px;
+    background-color: white;
+}
+
+.cropContainer {
+    width: 100%;
+    height: 350px;
+    position: relative;
+}
+
+.sliderContainer {
+    margin: auto;
+    margin-top: 10px;
+    width: 80%;
+}
+
+.hidden {
+    display: none;
+}
+
+.modal-wrapper {
+    width: 800px;
+    height: 568px;
+}
+
+.modal {
+    background: white;
+    height: 100%;
+    width: 100%;
+    border-radius: 15px;
+    padding: 15px;
+    z-index: 19;
+}
+
+.modal-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 120px;
+    align-items: top;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 20;
+}
+
+.modal-body {
+    padding-top: 10px;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 20px;
+}
+
+.dropify-form-group {
+    margin: 0 auto;
+    max-width: 720px;
+}
+
+.dropify-wrapper {
+    background-image: none;
+    color: #acb3b9;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    line-height: 22px;
+    max-width: 100%;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    text-align: center;
+    transition: border-color .15s linear;
+    width: 100%;
+    height: 124px;
+}
+.dropify-wrapper p {
+    background-color: #ffc02e;
+    color: white;
+    padding: 8px;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 16px;
+}
+.dropify-message {
+    height: 100%;
+}
+.modal-button-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.modal-button-wrap button {
+    background-color: #388AE5;
+    color: white;
+    border-radius: 4px;
+    padding: 8px 20px;
+    font-weight: 900;
+}
+.previewContainer {
+margin-top: 20px;
+text-align: center;
+}
+.previewImage {
+max-width: 100%;
+max-height: 400px;
+width: 100%;
+height: 100%;
+}

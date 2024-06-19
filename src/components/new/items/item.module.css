@@ -1,0 +1,79 @@
+.table_grid {
+    display: grid;
+    gap: 2px;
+    width: 300px;
+    background-color: #f5f6f9;
+    grid-template-rows: repeat(8, 1fr);
+    /* Adjust as needed */
+    grid-template-columns: repeat(8, 1fr);
+    /* Adjust as needed */
+}
+
+.table_grid div {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    width: 20px;
+    height: 20px;
+}
+
+.table_tableContainer {
+    margin-top: 20px;
+}
+
+.first-row {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+.first-column {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+.dropzone {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.file-preview {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 10px;
+}
+
+.file-mosaic {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.file-mosaic img {
+    max-width: 100%;
+    max-height: 400px;
+}
+.list {
+    width: 100%;
+}
+.list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.list p {
+    padding-inline: 10px;
+    background-color: yellow;
+    margin-inline: 10px;
+}

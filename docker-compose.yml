@@ -1,0 +1,17 @@
+version: "3.5"
+
+services:
+  app:
+    container_name: front-next-app
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    tty: true
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./:/usr/src/app
+      - nextjs-node-modules:/usr/src/app/node_modules
+
+volumes:
+  nextjs-node-modules:
