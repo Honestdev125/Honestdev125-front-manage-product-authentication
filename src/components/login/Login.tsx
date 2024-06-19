@@ -47,14 +47,14 @@ const LogIn = () => {
         <form className="w-96" onSubmit={handleSubmit}>
           <h1 className="text-2xl font-bold text-center mb-4">ログイン</h1>
 
-          <input
+          {/* <input
             type="text"
             id="email"
             name="email"
             className="mt-1 p-2 border border-gray-300 rounded-md w-full"
             placeholder="メールアドレス"
             value={formData.email} onChange={handleChange}
-          />
+          /> */}
 
           <input
             type="password"
